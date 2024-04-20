@@ -1,7 +1,7 @@
 # Expert-system-based-on-fuzzy-inference
 System wykorzystujący logikę rozmytą do oceniania pogody na zewnątrz.
 <p align="center">
-      <img src="https://i.ibb.co/2dW62Qj/wheather.jpg" alt="Project Logo" width="746">
+      <img src="https://img.shields.io/badge/Engine-VS%20Code-2B7FB8" alt="Engine">
 </p>
 
 <p align="center">
